@@ -1,0 +1,5 @@
+version=1.6
+notes=v1.6: ????8????(Gitee/GitHub???+SHA-256??)
+url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
+url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
+sha256=6662D699EE1D02FDD39352C21FDA638A8A05E466384BC8392B1A9BDC4F430FB9
