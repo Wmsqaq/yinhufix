@@ -1,5 +1,5 @@
 version=1.6
-notes=v1.6: ????8????(Gitee/GitHub???+SHA-256??)
+notes=v1.6: ?? hosts ??/????; ????; ??????
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=6662D699EE1D02FDD39352C21FDA638A8A05E466384BC8392B1A9BDC4F430FB9
+sha256=15A9BDFD400AD049EDB3BF9863BBCFB052C7D247E09DCAD35E7411DBC08DA593
