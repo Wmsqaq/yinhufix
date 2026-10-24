@@ -1,5 +1,5 @@
-version=1.6.20261017
-notes=v1.6.20261017: ?? hosts ??/????; ????; ??????
+version=1.7.20261017
+notes=v1.7: ?? GUI ????(WinForms); ???????; ??????
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=15A9BDFD400AD049EDB3BF9863BBCFB052C7D247E09DCAD35E7411DBC08DA593
+sha256=5CA58E380E5170266A3066C3C3A95381327AE58E9410654EB40CC45AC2558E92
