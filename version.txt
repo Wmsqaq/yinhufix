@@ -1,5 +1,5 @@
-version=1.7.20261024
-notes=v1.7.1: 新增 GUI 启动器 EXE 双击即用; 云端策略编码修正; GUI 更新探测优化
+version=1.7.20261025
+notes=v1.7.2：修复检查更新后界面卡住的问题；新增双击即用的 exe 启动器；云端策略乱码已修正
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=3FB99C7EAD17CD8395027EDBFD761D8DC23475211514D2F7986B1A1C274F5706
+sha256=9294DC9C0CB4933FF7B19627390A3D786A74CB7A8113A8CDAF100531F7BBFA42
