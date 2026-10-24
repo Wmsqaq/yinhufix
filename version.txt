@@ -1,5 +1,5 @@
-version=1.8.20261025
-notes=v1.8：修好了图形界面点功能就崩溃的问题，顺手把说明文档重写了一遍
+version=1.8.20261026
+notes=v1.8.1：修好了日志窗口反复报读取输出出错的问题，这次日志能正常显示了
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=13AD062989789F2FA8347D3F4A7B7F4697506BA355F2D8A9B1B80244448E7C60
+sha256=F1694FCD8D0C856A1CE0A3F906BE59955A62E8A77FDA9EDFDDB6E5977F959AAF
