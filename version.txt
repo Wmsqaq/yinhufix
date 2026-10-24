@@ -1,5 +1,5 @@
-version=1.8.20261026
-notes=v1.8.1：修好了日志窗口反复报读取输出出错的问题，这次日志能正常显示了
+version=1.9.20261026
+notes=v1.9：修好了获取杀软时反复启动安装包的问题，并附带 C盘空间恢复清理.bat 清理残留
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=F1694FCD8D0C856A1CE0A3F906BE59955A62E8A77FDA9EDFDDB6E5977F959AAF
+sha256=D80B1DC9AC1F71C5F04195B3DD9784438DBCDE4AD0E36FC3DBE03029B6B23EA5
