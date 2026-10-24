@@ -2,4 +2,4 @@ version=1.7.20261017
 notes=v1.7: ?? GUI ????(WinForms); ???????; ??????
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=5CA58E380E5170266A3066C3C3A95381327AE58E9410654EB40CC45AC2558E92
+sha256=CD75B1CDF26A1D83A9286672CEE647C0DF180149B22311F57D18552C086BFD6D
