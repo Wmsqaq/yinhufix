@@ -1,5 +1,5 @@
-version=1.7.20261025
-notes=v1.7.2：修复检查更新后界面卡住的问题；新增双击即用的 exe 启动器；云端策略乱码已修正
+version=1.8.20261025
+notes=v1.8：修好了图形界面点功能就崩溃的问题，顺手把说明文档重写了一遍
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=9294DC9C0CB4933FF7B19627390A3D786A74CB7A8113A8CDAF100531F7BBFA42
+sha256=13AD062989789F2FA8347D3F4A7B7F4697506BA355F2D8A9B1B80244448E7C60
