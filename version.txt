@@ -1,5 +1,5 @@
-version=1.7.20261017
-notes=v1.7: ?? GUI ????(WinForms); ???????; ??????
+version=1.7.20261024
+notes=v1.7.1: 新增 GUI 启动器 EXE 双击即用; 云端策略编码修正; GUI 更新探测优化
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=CD75B1CDF26A1D83A9286672CEE647C0DF180149B22311F57D18552C086BFD6D
+sha256=3FB99C7EAD17CD8395027EDBFD761D8DC23475211514D2F7986B1A1C274F5706
