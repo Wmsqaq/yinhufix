@@ -7,4 +7,3 @@ notice=工具已支持云端策略订阅; 本文件改动推送后即生效
 # 云端 IOC: 文件 SHA-256(大写), 每行一条
 # file_hash=0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF0123456789ABCDEF
 # 杀软链接订阅: 名称|本地路径|下载地址 (追加到功能6菜单)
-av_entry=火绒恶性木马专杀(云)|setup\hrkill\hrkill.exe|https://down7.huorong.cn/hrkill/hrkill-1.0.0.188.exe

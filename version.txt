@@ -1,5 +1,5 @@
-version=1.9.20261026
-notes=v1.9：修好了获取杀软时反复启动安装包的问题，并附带 C盘空间恢复清理.bat 清理残留
+version=1.10.20261031
+notes=v1.10：新增微步云沙箱在线检测入口；杀软安装包支持多线路测速下载，修复自动解压与配置解析问题
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=D80B1DC9AC1F71C5F04195B3DD9784438DBCDE4AD0E36FC3DBE03029B6B23EA5
+sha256=8F361D3B4B46D5B87ECFA60909AEFB47B9479A0AB06D403347FAE1C8A5E1F2C8
