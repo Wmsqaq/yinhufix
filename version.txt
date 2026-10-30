@@ -2,4 +2,4 @@ version=1.10.20261031
 notes=v1.10：新增微步云沙箱在线检测入口；杀软安装包支持多线路测速下载，修复自动解压与配置解析问题
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=B39361391EA7F6E7C9D7218ADC6C75AEA269CA6C388DDD0E5B311A6AFF676F5C
+sha256=6A4C5EF15B5E181990368DE6EDBB9C5855912E79B5F949A7B5F9BDD78FE6524F
