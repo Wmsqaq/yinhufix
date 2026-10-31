@@ -1,5 +1,5 @@
-version=1.10.20261031
-notes=v1.10：新增微步云沙箱在线检测入口；杀软安装包支持多线路测速下载，修复自动解压与配置解析问题
+version=1.11.20261031
+notes=v1.11：变种清除覆盖 WMI 订阅与系统任务劫持，纳入伪装 OneDrive 更新器等多批次样本；云端情报库新增 11 条哈希
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=6A4C5EF15B5E181990368DE6EDBB9C5855912E79B5F949A7B5F9BDD78FE6524F
+sha256=17500E8D630BE7278C19A1079D0D24BB2F05A35D397376CA5B40DD766880156C
