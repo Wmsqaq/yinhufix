@@ -2,4 +2,4 @@ version=1.11.20261031
 notes=v1.11：变种清除覆盖 WMI 订阅与系统任务劫持，纳入伪装 OneDrive 更新器等多批次样本；云端情报库新增 11 条哈希
 url_gitee=https://gitee.com/novapupil/yinhufix/raw/master/YinHuFix_Update.zip
 url_github=https://raw.githubusercontent.com/Wmsqaq/yinhufix/master/YinHuFix_Update.zip
-sha256=17500E8D630BE7278C19A1079D0D24BB2F05A35D397376CA5B40DD766880156C
+sha256=9816451F38E22AC58772B73EFE9113EFCF90811A70E7037FA39769A4E5BC163D
